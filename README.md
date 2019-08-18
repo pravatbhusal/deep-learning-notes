@@ -10,5 +10,5 @@ Deep learning is machine learning using ANNs (artificial neural networks). It mi
 ### Classification
 - Dense (Standard Artificial) Neural Network
 
-### Images Classification
+### Image Classification
 - Convolutional Neural Network
