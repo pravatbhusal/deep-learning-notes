@@ -14,7 +14,7 @@ Deep learning is machine learning using ANNs (artificial neural networks). It mi
 - Convolutional Neural Network
 
 # EDUCATIONAL DISCLAIMER
-This repository is a non-profit, educational repository to learn machine learning.
+This repository is a non-profit, educational repository to learn deep learning.
 
 Images and learning material credit go to SuperDataScience, Kirill Eremenko, and Hadelin de Ponteves.
-- https://www.superdatascience.com/machine-learning/
+- https://www.superdatascience.com/deep-learning
