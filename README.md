@@ -1,4 +1,6 @@
-# Deep Learning
+# Deep Learning References
+A separate repository from my archives that contains all my deep learning studies and references.
+
 Deep learning is machine learning using ANNs (artificial neural networks). It mimics how the human brain operates using artificial neural networks to learn and adapt based on provided input data. Neural networks can do all the tasks of a typical statistical model in machine learning, but with extra layers to further calculate patterns among the data set.
 
 # Model Selection
