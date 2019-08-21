@@ -8,6 +8,8 @@ We use tensorflow, with a keras high-level API, to make the majority of our deep
 - conda: ```conda install tensorflow-gpu``` for GPU usage or ```conda install tensorflow``` for CPU usage
 - pip: ```pip install tensorflow-gpu``` for GPU usage or ```pip install tensorflow``` for CPU usage
 
+If you installed the Tensorflow GPU version, there's further setup you need to follow on Tensorflow's [GPU Installation Guide](https://www.tensorflow.org/install/gpu).
+
 # Model Selection
 ### Regression
 - Dense (Standard Artificial) Neural Network
